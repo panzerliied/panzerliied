@@ -9,5 +9,9 @@ tank or rowan or leon or idc...
 </p>
 
 <p align="center">
-leave things on my ata or sp please :3 
+leave things on my ata or sp please!!! :3 
+</p>
+
+<p align="center">
+also, i do not care for discourse...
 </p>
