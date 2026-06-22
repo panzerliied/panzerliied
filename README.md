@@ -1,5 +1,5 @@
 <p align="center">
-  <![](https://komarev.com/ghpvc/?username=panzerliied&LABEL=sillies)/>
+  <![](https://komarev.com/ghpvc/?username=panzerliied&label=sillies)/>
 </p>
 
 
