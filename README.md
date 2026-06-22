@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  < ![](https://komarev.com/ghpvc/?username=panzerliied&color=blueviolet&label=sliies) >
+  <![](https://komarev.com/ghpvc/?username=panzerliied&color=blueviolet&label=sliies)>
 </p>
